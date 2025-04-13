@@ -2,6 +2,8 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+This project features a modern UI for a Seminar Hall Management System. The user-friendly interface allows for efficient management of seminar halls, making it easier to view availability, request and book seminar halls, and manage events.
+
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
